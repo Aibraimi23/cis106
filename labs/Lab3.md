@@ -11,25 +11,25 @@ Assignment description [here](https://raw.githubusercontent.com/ra559/cis106/mai
 3.1 What is the name of the package?
     Google Chrome
 3.2 What dependencies are needed in order to install the package? (you can either take a screenshot of the terminal or copy and paste from the terminal)
-![Question3-2 answer](../imgs/Lab3Q1.png)
+![Question3-2 answer](../imgs/Lab3/Lab3Q1.png)
 3.3 How much disk space will the package utilize after installation?
 239 MB
  
 
 ## Question 2
-![Question 2](../imgs/Lab3Q2.png)
-![Question 2](../imgs/Lab3Q2-2.png)
+![Question 2](../imgs/Lab3/Lab3Q2.png)
+![Question 2](../imgs/Lab3/Lab3Q2-2.png)
 ## Question 3
-![Question 3](../imgs/Lab3Q3.png)
+![Question 3](../imgs/Lab3/Lab3Q3.png)
 
 ## Question 4
-![Question 4](../imgs/Lab3Q4-1.png)
-![Question 4](../imgs/Lab3Q4-2.png)
-![Question 4](../imgs/Lab3Q4-2-1.png)
-![Question 4](../imgs/Lab3Q4-3.png)
+![Question 4](../imgs/Lab3/Lab3Q4-1.png)
+![Question 4](../imgs/Lab3/Lab3Q4-2.png)
+![Question 4](../imgs/Lab3/Lab3Q4-2-1.png)
+![Question 4](../imgs/Lab3/Lab3Q4-3.png)
 
 ## Question 5
-![Question 5](../imgs/Lab3Q5.png)
-![Question 5](../imgs/Lab3Q5-2.png)
-![Question 5](../imgs/Lab3Q5-3.png)
-![Question 5](../imgs/Lab3Q5-4.png)
+![Question 5](../imgs/Lab3/Lab3Q5.png)
+![Question 5](../imgs/Lab3/Lab3Q5-2.png)
+![Question 5](../imgs/Lab3/Lab3Q5-3.png)
+![Question 5](../imgs/Lab3/Lab3Q5-4.png)

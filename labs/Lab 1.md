@@ -99,15 +99,15 @@ On the Distrowatch homepage in the menu located in the middle of the page, you w
 ### Question 6
 DistroTest.net is a project that allows you to test Linux/BSD distributions on your web browser. This website is great for trying out distributions before you even download the ISO file. Go to [Distrotest.net](https://distrotest.net/) and click on any of the distributions. Start the distribution and take a screenshot of the browser window that just popped up.
 
-![image1](../imgs/img1.png)
+![image1](../imgs/Lab1/img1.png)
 
 Locate the terminal application in the distribution you started and type the following command: `uname -a` Take a screenshot of the browser window showing the terminal application open.
 
-![image2](../imgs/img2.png)
+![image2](../imgs/Lab1/img2.png)
 
 Stop the machine and take a screenshot of the browser window showing that the machine has been stopped.
 
-![image3](../imgs/img3.png)
+![image3](../imgs/Lab1/img3.png)
 
 
 
