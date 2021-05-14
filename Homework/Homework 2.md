@@ -21,8 +21,8 @@
 
 | Application Name | Open Source Alternative | License used by Alternative |
 |-----|------|-----|
-| Skype | WengoPhone 2.1 | 
-| Photoshop | Gimp 2.6 | 
-| Microsoft Office | Open Office 3.0 | 
-| Outlook | Mozilla Thunderbird | 
-| Microsoft Hyper-V | Virtual Box | 
+| Skype | WengoPhone 2.1 | GNU, GPL
+| Photoshop | Gimp 2.6 | GNU
+| Microsoft Office | Open Office 3.0 | GNU
+| Outlook | Mozilla Thunderbird | MPL1.1 or GPL-2.0-or-later or LGPL-2.1-or-later
+| Microsoft Hyper-V | Virtual Box | GPL v2, PUEL
